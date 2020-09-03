@@ -1,9 +1,5 @@
 # 基于Qt5.15的CRC校验小工具开发项目
 
-
-@[TOC]
-
-
 </font>
 
 <hr style=" border:solid; width:100px; height:1px;" color=#000000 size=1">
@@ -222,4 +218,4 @@ void myWidget::crcCalculate()
 <hr style=" border:solid; width:100px; height:1px;" color=#000000 size=1">
 
 # 总结
-该工具可以计算CRC8，CRC16以及CRC32位的数据校验码，欢迎大家评论、下载与转发，最后附上我的Github地址，欢迎大家骚扰哈！
+该工具可以计算CRC8，CRC16以及CRC32位的数据校验码，欢迎大家评论、下载与转发，最后附上我的[Github地址](https://github.com/WandererYang)欢迎大家骚扰哈！
